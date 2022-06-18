@@ -1,4 +1,2 @@
 # ReplaysArchive
-
-
-Please see the releases page!
+Download from the [releases section.](https://github.com/FormulaCraftOne/ReplaysArchive/releases)
